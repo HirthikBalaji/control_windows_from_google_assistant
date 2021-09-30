@@ -24,6 +24,7 @@ and create the tigger
 afterward install dropbox client on your machine and login with your ifttt account
 
 and run the # pip install -r reqirements.txt # in cloned repo in command prompt
+edit the main file in line 27 replace SIMPLE with your username
 then run the main.py 
 your google assistant will now ask your pc to do some basic works
 
