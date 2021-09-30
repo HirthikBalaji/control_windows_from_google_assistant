@@ -85,7 +85,7 @@ try:
                 if (app_name[x] in s):
                     speak("Opening " + app_name[x])
                     os.startfile('"' + apps[x] + '"')
-
+# play youtube videos in computer
             if "play" in data.lower():
                 q = data.replace("play", "").replace(" ", '')
                 html = urllib.request.urlopen(f"https://www.youtube.com/results?search_query={q}")
