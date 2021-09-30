@@ -1,0 +1,4 @@
+glob
+pyttsx3
+nltk
+urllib
