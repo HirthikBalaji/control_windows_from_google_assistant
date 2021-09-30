@@ -24,7 +24,7 @@ def speak(txt):
     engine.runAndWait()
 
 
-path = "C:\\Users\\Hirthik Balaji\\Dropbox\\Apps\\Push2Run"
+path = "C:\\Users\\SIMPLE\\Dropbox\\Apps\\WindowsAssistant"
 
 # make listen
 try:
